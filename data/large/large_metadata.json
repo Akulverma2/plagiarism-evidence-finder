@@ -1,0 +1,15 @@
+{
+  "target_similarity_pct": 35.0,
+  "words_to_copy": 36750,
+  "injected_passages": [
+    {
+      "source_start": 56611,
+      "source_end": 93360,
+      "suspect_start": 58340,
+      "suspect_end": 95089,
+      "length": 36750
+    }
+  ],
+  "total_source_words": 105000,
+  "total_suspect_words": 105000
+}

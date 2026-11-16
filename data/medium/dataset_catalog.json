@@ -1,0 +1,202 @@
+[
+  {
+    "pair_id": 1,
+    "source_file": "doc_01_source.txt",
+    "suspect_file": "doc_01_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 56.91,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 2,
+    "source_file": "doc_02_source.txt",
+    "suspect_file": "doc_02_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 68.2,
+    "injected_passages": 2
+  },
+  {
+    "pair_id": 3,
+    "source_file": "doc_03_source.txt",
+    "suspect_file": "doc_03_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 19.02,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 4,
+    "source_file": "doc_04_source.txt",
+    "suspect_file": "doc_04_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 51.96,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 5,
+    "source_file": "doc_05_source.txt",
+    "suspect_file": "doc_05_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 46.03,
+    "injected_passages": 1
+  },
+  {
+    "pair_id": 6,
+    "source_file": "doc_06_source.txt",
+    "suspect_file": "doc_06_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 54.39,
+    "injected_passages": 1
+  },
+  {
+    "pair_id": 7,
+    "source_file": "doc_07_source.txt",
+    "suspect_file": "doc_07_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 26.21,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 8,
+    "source_file": "doc_08_source.txt",
+    "suspect_file": "doc_08_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 81.2,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 9,
+    "source_file": "doc_09_source.txt",
+    "suspect_file": "doc_09_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 31.78,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 10,
+    "source_file": "doc_10_source.txt",
+    "suspect_file": "doc_10_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 21.13,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 11,
+    "source_file": "doc_11_source.txt",
+    "suspect_file": "doc_11_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 51.47,
+    "injected_passages": 2
+  },
+  {
+    "pair_id": 12,
+    "source_file": "doc_12_source.txt",
+    "suspect_file": "doc_12_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 17.71,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 13,
+    "source_file": "doc_13_source.txt",
+    "suspect_file": "doc_13_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 44.01,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 14,
+    "source_file": "doc_14_source.txt",
+    "suspect_file": "doc_14_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 35.23,
+    "injected_passages": 1
+  },
+  {
+    "pair_id": 15,
+    "source_file": "doc_15_source.txt",
+    "suspect_file": "doc_15_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 68.14,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 16,
+    "source_file": "doc_16_source.txt",
+    "suspect_file": "doc_16_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 69.03,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 17,
+    "source_file": "doc_17_source.txt",
+    "suspect_file": "doc_17_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 25.93,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 18,
+    "source_file": "doc_18_source.txt",
+    "suspect_file": "doc_18_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 52.65,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 19,
+    "source_file": "doc_19_source.txt",
+    "suspect_file": "doc_19_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 76.58,
+    "injected_passages": 3
+  },
+  {
+    "pair_id": 20,
+    "source_file": "doc_20_source.txt",
+    "suspect_file": "doc_20_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 59.57,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 21,
+    "source_file": "doc_21_source.txt",
+    "suspect_file": "doc_21_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 76.91,
+    "injected_passages": 1
+  },
+  {
+    "pair_id": 22,
+    "source_file": "doc_22_source.txt",
+    "suspect_file": "doc_22_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 52.53,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 23,
+    "source_file": "doc_23_source.txt",
+    "suspect_file": "doc_23_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 40.63,
+    "injected_passages": 4
+  },
+  {
+    "pair_id": 24,
+    "source_file": "doc_24_source.txt",
+    "suspect_file": "doc_24_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 47.61,
+    "injected_passages": 2
+  },
+  {
+    "pair_id": 25,
+    "source_file": "doc_25_source.txt",
+    "suspect_file": "doc_25_suspect.txt",
+    "approx_words": 2000,
+    "target_similarity_pct": 54.62,
+    "injected_passages": 1
+  }
+]
